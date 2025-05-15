@@ -1,7 +1,7 @@
 <div align="center">👨‍💻 Aldi Coding Universe 🚀</div>
 <div align="center"> <a href="#"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20To%20My%20Profile&fontSize=30&fontAlignY=30&animation=fadeIn" width="100%" alt="Header"/> </a> </div><div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9CFF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner&size=22" alt="Typing SVG" /> </div><div align="center"> <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" /> <img src="https://img.shields.io/badge/Lives-Indonesia-blue" /> <img src="https://img.shields.io/badge/Languages-English%20%26%20Bahasa%20Indonesia-red" /> </div>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-<div align="center"> <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="250"></a> </div><img align="right" height="270px" width="350px" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+<div align="center"> <a href="#"><img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e474y3uhoap6f0tplbmp03mfv4d65r46r4kj56pofw8&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coder GIF" width="300" height="250"></a> </div><img align="right" height="270px" width="350px" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 javascript
 
 
