@@ -1,4 +1,4 @@
-<div align="center">👋 Hello, I'm Die All</div>
+<div align="center">👋 Hello, I'm Aldi</div>
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9CFF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" /> </div><div align="center"> <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" /> <img src="https://img.shields.io/badge/Lives-Indonesia-blue" /> <img src="https://img.shields.io/badge/Languages-English%20%26%20Bahasa%20Indonesia-red" /> </div>
 👨‍💻 About Me
 javascript
